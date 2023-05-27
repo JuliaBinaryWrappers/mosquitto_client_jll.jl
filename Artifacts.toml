@@ -1,0 +1,143 @@
+[[mosquitto_client]]
+arch = "aarch64"
+git-tree-sha1 = "f95c947d822b73c27fb7f4fc4ead17e12244dd5a"
+os = "macos"
+
+    [[mosquitto_client.download]]
+    sha256 = "626152e61ea83bbabec25db03d614ceebcc8ac040934bbbc6725b28a41950413"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.aarch64-apple-darwin.tar.gz"
+[[mosquitto_client]]
+arch = "aarch64"
+git-tree-sha1 = "57a13cd90534acc11319a8da3d3511234b439be2"
+libc = "glibc"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "0c109641fc4d2941a727692de47cdac97c0268115313115655f744c44e413ae0"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.aarch64-linux-gnu.tar.gz"
+[[mosquitto_client]]
+arch = "aarch64"
+git-tree-sha1 = "e4cef3ffe7a70c1743543898555ca4eb5d3afa5a"
+libc = "musl"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "adbea5740f6aafd295bac372198368688a5a7d8aef76781e01d68090cdc5596c"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.aarch64-linux-musl.tar.gz"
+[[mosquitto_client]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4c59182cfcba3e8d1f894e418ab4707f1e929a10"
+libc = "glibc"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "108c086684152dba86f1451494aaae1727539d5cd9183c0d17006d9dbb19e75a"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.armv6l-linux-gnueabihf.tar.gz"
+[[mosquitto_client]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cd1254ed0ab206429a8a5fc3016904495d76fa89"
+libc = "musl"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "544744c914cc64c28f8445bd29ce35ab0b050fb8153553d038755347e21c5c32"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.armv6l-linux-musleabihf.tar.gz"
+[[mosquitto_client]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9ba5f7a4198efd911a7b442d40d4f61cc3af8954"
+libc = "glibc"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "281772f9f64c7defd493ef4f79090444b1bda5109aacb9552bcf220eeeabbdb6"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.armv7l-linux-gnueabihf.tar.gz"
+[[mosquitto_client]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d1c420dec5a27df1116612ca68a0fbf7e4e76103"
+libc = "musl"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "560383e0077a05c1216f83db3fc301a3c45193936750143551b5c907d3a01232"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.armv7l-linux-musleabihf.tar.gz"
+[[mosquitto_client]]
+arch = "i686"
+git-tree-sha1 = "e4d28217d770f96433d038dc37b53bd27ecbfcd6"
+libc = "glibc"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "f7543824dd9af9f9a4660ac6bf6f24ce0c61b7ac4a894c762da73c560fc1680d"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.i686-linux-gnu.tar.gz"
+[[mosquitto_client]]
+arch = "i686"
+git-tree-sha1 = "a9143601121622d3ca20cf7cb54889f93c78f0e4"
+libc = "musl"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "142a8a08b8bef3c3b6b3d9e14619472257bbae742f1b3855825736097f0e16ca"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.i686-linux-musl.tar.gz"
+[[mosquitto_client]]
+arch = "i686"
+git-tree-sha1 = "e1f34a0e7514287e4bb8b908ada0dd76725bb0c0"
+os = "windows"
+
+    [[mosquitto_client.download]]
+    sha256 = "310f1bb45fad6896a8586bfba522b914ea2d4e29b9b18587aca0f26126c8953d"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.i686-w64-mingw32.tar.gz"
+[[mosquitto_client]]
+arch = "powerpc64le"
+git-tree-sha1 = "c41057ff409df0448adb0b05b4aef6518f6c22ad"
+libc = "glibc"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "6722d0181febebbb69aeceda4211e39370df28e1e86bb033d607a4ae8ad7d244"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.powerpc64le-linux-gnu.tar.gz"
+[[mosquitto_client]]
+arch = "x86_64"
+git-tree-sha1 = "834b81d377648baec856bd9fe11c3ed211069590"
+os = "macos"
+
+    [[mosquitto_client.download]]
+    sha256 = "6858ec029479d6137ad21dcec5076bddf8d67d534c2e51d151a3c6ed18f15e57"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.x86_64-apple-darwin.tar.gz"
+[[mosquitto_client]]
+arch = "x86_64"
+git-tree-sha1 = "b9b181566842658d0d479c4c13a1d92efcb61b8a"
+libc = "glibc"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "c60a9fb6113917a8b0da9c045105a91708aea56dff4f6cb6775a057103da3a55"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.x86_64-linux-gnu.tar.gz"
+[[mosquitto_client]]
+arch = "x86_64"
+git-tree-sha1 = "08cfaaf24542b6c2d50a11c1cdce27072035f10a"
+libc = "musl"
+os = "linux"
+
+    [[mosquitto_client.download]]
+    sha256 = "445ec8ac5b7171fc68e1e9a825f59cf9ec2040982e48c83795d1f8eab42bf1bc"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.x86_64-linux-musl.tar.gz"
+[[mosquitto_client]]
+arch = "x86_64"
+git-tree-sha1 = "33f3ff496031406a46dcd56c0f50b5beaff7caf0"
+os = "freebsd"
+
+    [[mosquitto_client.download]]
+    sha256 = "74bef3ddca2a9a830c3dca6353b05bbfff71c3d5565dbb6b7506582652b1db3a"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.x86_64-unknown-freebsd.tar.gz"
+[[mosquitto_client]]
+arch = "x86_64"
+git-tree-sha1 = "9b939aeb2a6c5ba8d66468d4204d3b276e0dae2e"
+os = "windows"
+
+    [[mosquitto_client.download]]
+    sha256 = "5eb13848f86645e0eb691a22d14af955300ef5112a5f8e47c54dd4edc4e214cb"
+    url = "https://github.com/JuliaBinaryWrappers/mosquitto_client_jll.jl/releases/download/mosquitto_client-v2.0.15+0/mosquitto_client.v2.0.15.x86_64-w64-mingw32.tar.gz"
